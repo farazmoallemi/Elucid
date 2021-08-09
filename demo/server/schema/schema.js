@@ -10,7 +10,7 @@ type Homeworld {
 }
 
 type Person {
-    id: Int!
+    id: Int
     name: String
     height: String!
     mass: String!
@@ -31,4 +31,3 @@ type Person {
 `);
 
 module.exports = schema;
-

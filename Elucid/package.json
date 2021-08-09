@@ -1,0 +1,22 @@
+{
+  "name": "Elucid",
+  "version": "1.0.0",
+  "description": "Comprehensive error handling for GraphQL over HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oslabs-beta/Elucid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oslabs-beta/Elucid/issues"
+  },
+  "homepage": "https://github.com/oslabs-beta/Elucid#readme",
+  "dependencies": {
+    "express-graphql": "^0.12.0"
+  }
+}
